@@ -1,0 +1,8 @@
+node_modules/
+dist/
+preview-*.jpeg
+preview-*.png
+verify-*.jpeg
+fix-*.py
+*.log
+.DS_Store
